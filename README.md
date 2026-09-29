@@ -23,3 +23,5 @@
 > 
 > ### Project Structure
 
+Day 5 - 29 sep: Deployed custom page on ngix
+Day 5 - 29 sep: Deployed custom page on nginx at localhost. Command: echo | sudo tee /var/www/html/index.html
